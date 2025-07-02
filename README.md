@@ -50,6 +50,6 @@ PET_fMRI_integration/
 ### Integration
 Scatterplot and correlation analysis between PET Ki and fMRI clustering coefficient at ROI level
 
-### Key Findings
+## Key Findings
 - Strong agreement (r = 0.99) between voxel-averaged and ROI-based Ki estimates.
 - No significant correlation found between Ki values and clustering coefficients, suggesting they represent different physiological phenomena (local metabolism vs network integration).
