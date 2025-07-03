@@ -21,7 +21,7 @@ The dataset used is too heavy to be uploaded here, but it's available [here](htt
 
 ## Folder Structure
 ```bash
-PET_fMRI_integration/
+pet-fmri-integration/
 │
 ├── main_script.m                    # MATLAB script for PET/fMRI analysis
 ├── PET_data.mat                     # Ki ROI and grey mask matrices computed during the first PET analysis, used in the final integration with fMRI
