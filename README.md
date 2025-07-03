@@ -15,7 +15,7 @@ This project was completed as part of the Imaging for Neuroscience course. The g
 - Toolboxes:
   - Brain Connectivity Toolbox
   - SPM12-compatible filters and tools
-  - Custom utility functions for NIfTI I/O and data processing
+  - Custom utility functions for NIfTI I/O and data processing  
 The dataset used is too heavy to be uploaded here, but it's available [here](https://drive.google.com/drive/folders/1LaK51OAIB6LonDEf_wV95aNQOutJtqCT?usp=share_link).
 
 ## Folder Structure
